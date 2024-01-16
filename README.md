@@ -1,7 +1,7 @@
 # GUARDS
 **Lilith Games Project DaVinci Excellence Award.**
 
-Game Jam Website: https://davinci.lilith.com/2020/
+Game Jam Website: https://davinci.lilith.com/2020/ and https://www.projectdavinci.com/
 
 
 A first-person adventure platformer developed inside Lilith Games' proprietary game editor DaVinci using Lua. 
