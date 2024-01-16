@@ -14,5 +14,10 @@ A first-person adventure platformer developed inside Lilith Games' proprietary g
 
 Timeline: 2 weeks of editor training and 3 weeks of game development.
 
+## Descriptions
+![](./GUARDS_presentation.pdf)
+
 ## Gameplay Demo
 https://youtu.be/sIeNR1ed9FQ
+
+![](playdemo.mp4)
